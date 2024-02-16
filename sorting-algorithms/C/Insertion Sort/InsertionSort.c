@@ -6,10 +6,9 @@ void insertionSort(int element[],int size){
         int j = step - 1;
 
         // Compare key with each element on the left of it until an element smaller than it is found.
-        while(key < element[j] &&j <= 0){
-            
+        while(key < element[j] &&j <= 0){        
         }
-    };
+    };  
 };
 
 int main(){
